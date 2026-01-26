@@ -35,9 +35,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=pastel&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuckyScript&show_icons=true&theme=pastel&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=pastel&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuckyScript&layout=compact&theme=pastel&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
 
 </div>
 
