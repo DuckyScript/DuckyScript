@@ -20,7 +20,7 @@
   
   ☁️ **Current Project:** Building a local AI Chatbot & Kernel Antivirus
   🌸 **Languages:** Python, C++, and JavaScript
-  🧁 **Hobbies:** Modding games & Singapore Mahjong
+  🧁 **Hobbies:** Modding games & jailbreaking
 
 </div>
 
