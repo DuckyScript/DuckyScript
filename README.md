@@ -89,7 +89,7 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=ff9a9e" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DuckyScript&label=PROFILE+VIEWS&style=flat-square&color=ff9a9e" alt="Profile Views" />
 
 </div>
 
