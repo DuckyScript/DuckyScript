@@ -57,3 +57,40 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <h3 align="center">💌 Connect with Me</h3>
+
+  <a href="https://discord.gg/your-invite-code">
+    <img src="https://img.shields.io/badge/Discord-B39DDB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://instagram.com/your-username">
+    <img src="https://img.shields.io/badge/Instagram-FFAB91?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-90CAF9?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EF9A9A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=ff9a9e" alt="Profile Views" />
+
+</div>
+
+<br/>
