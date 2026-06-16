@@ -50,7 +50,7 @@
   <br />
   <p><i>Thanks for visiting!</i> ☁️</p>
   
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/cheng-keat-sim">
     <img src="https://img.shields.io/badge/LinkedIn-ff9a9e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
